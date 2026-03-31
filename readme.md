@@ -1,4 +1,4 @@
-# Portfolio - <NOM Prenom>
+# Portfolio - \<NOM Prenom\>
 
 ![Bannière BTS SIO](https://firetoak.github.io/bts-sio_hebergement-portfolio-slam/assets/banniere_bts-sio.png)
 
