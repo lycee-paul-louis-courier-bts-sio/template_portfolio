@@ -5,6 +5,7 @@ on:
       - main
 jobs:
   deploy:
+    if: github.repository != 'lycee-paul-louis-courier-bts-sio/template_portfolio' # Empêcher le lancement de la CI/CD sur le dépôt template
     runs-on: ubuntu-latest
     steps:
       - name: Connexion SSH et déclenchement du Wrapper
